@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alinurhayat
-- 👀 I’m interested in front-end web developer and Digital Marketing
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 👀 I’m interested in Front-end Web Developer and Data Analysis
+- 🌱 I’m currently learning HTML, CSS, JavaScript and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
